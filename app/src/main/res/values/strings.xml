@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">أناشيد الدول العربية</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_anthem">الأناشيد</string>
+
+    <string name="plastinian_anthem">النشيد الوطني الفلسطيني</string>
+    <string name="algeria_anthem">النشيد الوطني الجزائري</string>
+    <string name="bahrain_anthem">النشيد الوطني البحريني</string>
+    <string name="comoros_anthem">النشيد الوطني جزر القمر</string>
+    <string name="egypt_anthem">النشيد الوطني المصري</string>
+    <string name="emirates_anthem">النشيد الوطني الاماراتي</string>
+    <string name="iraq_anthem">النشيد الوطني العراقي</string>
+    <string name="jibouti_anthem">النشيد الوطني الجيبوتي</string>
+    <string name="jordan_anthem">النشيد الوطني الاردني</string>
+    <string name="kuwait_anthem">النشيد الوطني الكويتي</string>
+    <string name="lebnan_anthem">النشيد الوطني اللبناني</string>
+    <string name="libya_anthem">النشيد الوطني الليبي</string>
+    <string name="moretanya_anthem">النشيد الوطني الموريتاني</string>
+    <string name="morocco_anthem">النشيد الوطني المغربي</string>
+    <string name="oman_anthem">النشيد الوطني العماني</string>
+    <string name="qatar_anthem">النشيد الوطني القطري</string>
+    <string name="saudi_anthem">النشيد الوطني السعودي</string>
+    <string name="somalia_anthem">النشيد الوطني الصومالي</string>
+    <string name="sudan_anthem">النشيد الوطني السوداني</string>
+    <string name="syria_anthem">النشيد الوطني السوري</string>
+    <string name="tunisia_anthem">النشيد الوطني التونسيي</string>
+    <string name="yemen_anthem">النشيد الوطني اليمني</string>
+
+</resources>
